@@ -1,15 +1,20 @@
 {
-  "short_name": "MyApp",
-  "name": "My Google Script App",
+  "short_name": "تاقیکردنەوەی ژیان",
+  "name": "تاقیکردنەوەی ژیان و تەرازووی کارەکان",
   "icons": [
     {
-      "src": "https://cdn-icons-png.flaticon.com/512/1043/1043432.png",
+      "src": "icon.png",
+      "type": "image/png",
+      "sizes": "192x192"
+    },
+    {
+      "src": "icon.png",
       "type": "image/png",
       "sizes": "512x512"
     }
   ],
   "start_url": "index.html",
-  "background_color": "#ffffff",
+  "background_color": "#0f172a",
   "display": "standalone",
-  "theme_color": "#000000"
+  "theme_color": "#0f172a"
 }
